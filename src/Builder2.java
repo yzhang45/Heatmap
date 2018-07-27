@@ -6,7 +6,6 @@ import java.util.Scanner;
  *
  */
 
-
 public class Builder2 {
 
     public static void main(String[] args) throws IOException {
