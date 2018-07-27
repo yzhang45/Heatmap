@@ -1,6 +1,12 @@
 import java.io.*;
 import java.util.Scanner;
 
+/**
+ * Created by Yixiong Zhang in 2018/7/27
+ *
+ */
+
+
 public class Builder2 {
 
     public static void main(String[] args) throws IOException {
@@ -14,7 +20,9 @@ public class Builder2 {
         Scanner scanfile = new Scanner(data);
         Double[][] position = new Double[2][35000];
         int[] sales = new int[35000];
-//read sellers' information
+
+        //read sellers' information
+
         while (scanfile.hasNext()) {
             position[0][count] = scanfile.nextDouble();
             position[1][count] = scanfile.nextDouble();
