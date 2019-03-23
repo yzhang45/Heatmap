@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 /**
- * Created by Yixiong Zhang in 2018/7/27
+ * Created by Yixiong Zhang & Zicheng Wang in 2018/7/27
  *
  */
 
